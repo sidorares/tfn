@@ -17,5 +17,5 @@ console.log(tfnStatus);
 ```
 ## See also
   - http://www.mathgen.ch/codes/tfn.html
-  - [australian-business-number])(https://github.com/sidorares/australian-business-number) - validate ABN
+  - [australian-business-number](https://github.com/sidorares/australian-business-number) - validate ABN
   - [australian-tax-rate](https://github.com/sidorares/australian-tax-rate) - calculate tax rate based on taxable income
