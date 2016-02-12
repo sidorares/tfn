@@ -1,0 +1,28 @@
+{
+  "name": "tfn",
+  "version": "1.0.0",
+  "description": "validate australian tax number",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sidorares/tfn.git"
+  },
+  "keywords": [
+    "australia",
+    "ato",
+    "tax",
+    "tfn"
+  ],
+  "author": "Andrey Sidorov <sidorares@yandex.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sidorares/tfn/issues"
+  },
+  "homepage": "https://github.com/sidorares/tfn#readme",
+  "devDependencies": {
+    "mocha": "^2.3.4"
+  }
+}
