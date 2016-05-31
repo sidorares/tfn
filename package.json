@@ -1,6 +1,6 @@
 {
   "name": "tfn",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "validate australian tax number",
   "main": "index.js",
   "scripts": {
