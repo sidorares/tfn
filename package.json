@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/sidorares/tfn#readme",
   "devDependencies": {
-    "mocha": "^2.3.4"
+    "mocha": "^3.3.0"
   }
 }
